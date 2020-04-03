@@ -35,6 +35,6 @@ Changed
 - Dynamic east-west storage expansion parameters adjusted for increased aggression
 - Refactored internal data structures
 Known Bugs
-- Economy entirely dependent on slave labor, hot fix in testing (#1)
-- Westward expansion directly causing unneeded slaughter of native populations (#2)
+- Economy entirely dependent on slave labor, hot fix in testing #1
+- Westward expansion directly causing unneeded slaughter of native populations #2
 
